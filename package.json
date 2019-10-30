@@ -1,0 +1,20 @@
+{
+  "name": "bnctest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cucumber.js",
+  "dependencies": {
+    "cucumber": "^6.0.3",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pazjing/bnctest.git"
+  },
+  "author": "Jing Bai",
+  "license": "ISC"
+}
